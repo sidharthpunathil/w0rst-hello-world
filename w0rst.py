@@ -304,14 +304,13 @@ W0rStHeLloWoRlD\
                                                         ,\
                                                             ll,\
                                                                 o,\
-                                                                
-                                                                        w,\
-                                                                            o,\
-                                                                                r,\
-                                                                                    lx,\
-                                                                                        d\
-                                                                                            )\
-                                                                                                )
+                                                                    w,\
+                                                                        o,\
+                                                                            r,\
+                                                                                lx,\
+                                                                                    d\
+                                                                                        )\
+                                                                                            )
                 
                 print\
                     (\
