@@ -46,7 +46,7 @@ W0rStHeLloWoRlD\
                         append\
                             (\
                                 '\
-                                    E\
+                                    e\
                                         '.\
                                             strip\
                                                 (\
@@ -60,7 +60,7 @@ W0rStHeLloWoRlD\
                         append\
                             (\
                                 '\
-                                    L\
+                                    l\
                                         '.\
                                             strip\
                                                 (\
@@ -74,7 +74,7 @@ W0rStHeLloWoRlD\
                         append\
                             (\
                                 '\
-                                    L\
+                                    l\
                                         '.\
                                             strip\
                                                 (\
@@ -88,7 +88,7 @@ W0rStHeLloWoRlD\
                         append\
                             (\
                                 '\
-                                    O\
+                                    o\
                                         '.\
                                             strip\
                                                 (\
@@ -130,7 +130,7 @@ W0rStHeLloWoRlD\
                         append\
                             (\
                                 '\
-                                    O\
+                                    o\
                                         '.\
                                             strip\
                                                 (\
@@ -144,7 +144,7 @@ W0rStHeLloWoRlD\
                         append\
                             (\
                                 '\
-                                    R\
+                                    r\
                                         '.\
                                             strip\
                                                 (\
@@ -158,7 +158,7 @@ W0rStHeLloWoRlD\
                         append\
                             (\
                                 '\
-                                    L\
+                                    l\
                                         '.\
                                             strip\
                                                 (\
@@ -172,7 +172,7 @@ W0rStHeLloWoRlD\
                         append\
                             (\
                                 '\
-                                    D\
+                                    d\
                                         '.\
                                             strip\
                                                 (\
@@ -292,7 +292,7 @@ W0rStHeLloWoRlD\
                                                 )
                 strinG = \
                     (\
-                    "{}{}{}{}{}{}{}{}{}{}{}"\
+                    "{}{}{}{}{} {}{}{}{}{}"\
                         .\
                             format\
                                 (\
@@ -304,7 +304,7 @@ W0rStHeLloWoRlD\
                                                         ,\
                                                             ll,\
                                                                 o,\
-                                                                    x,\
+                                                                
                                                                         w,\
                                                                             o,\
                                                                                 r,\
